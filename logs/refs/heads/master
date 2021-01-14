@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 45f00e641645bd637c78e7e3dd3cfa2a4d0f74ae taesubyun <taesubyun@icloud.com> 1610618454 +0900	commit (initial): First Commit
+45f00e641645bd637c78e7e3dd3cfa2a4d0f74ae ed308aebbd7d261477b4ad65b7cd6854e7c90c5a taesubyun <taesubyun@icloud.com> 1610618681 +0900	commit: add gitPracticeNumber3
+ed308aebbd7d261477b4ad65b7cd6854e7c90c5a 60a00bd74cc6047861a15d062448ec3cc0e01064 taesubyun <taesubyun@icloud.com> 1610618819 +0900	commit: delete add
+60a00bd74cc6047861a15d062448ec3cc0e01064 ed308aebbd7d261477b4ad65b7cd6854e7c90c5a taesubyun <taesubyun@icloud.com> 1610618918 +0900	reset: moving to ed308a
+ed308aebbd7d261477b4ad65b7cd6854e7c90c5a 741bcbd2ac39996d55ec0d591176d2956763a534 taesubyun <taesubyun@icloud.com> 1610618989 +0900	revert: Revert "add gitPracticeNumber3"

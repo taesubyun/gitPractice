@@ -1,0 +1,11 @@
+Revert "add gitPracticeNumber3"
+
+This reverts commit ed308aebbd7d261477b4ad65b7cd6854e7c90c5a.
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Changes to be committed:
+#	deleted:    gitPracticeNumber3
+#
